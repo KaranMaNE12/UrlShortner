@@ -31,3 +31,5 @@ A lightweight, full-stack URL Shortener built with Node.js, Express, HTML/CSS, a
 ### 1. Clone the repository
 
 ```bash
+git clone https://github.com/KaranMaNE12/UrlShortner.git
+cd urlshortener
